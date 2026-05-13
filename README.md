@@ -17,6 +17,7 @@ Computer Engineering student looking for my first junior role.
 |---------|-------------|-------|
 | [task-api](https://github.com/saradavilag/task-api) | REST API with JWT auth, tests and Docker | FastAPI · PostgreSQL · Docker |
 | [weather-dashboard](https://github.com/saradavilag/weather-dashboard) | 7-day weather forecast for Spanish cities | React · Recharts · Open-Meteo |
+| [book-scraper](https://github.com/saradavilag/book-scraper) | CLI tool to scrape and filter 1000 books | Python · BeautifulSoup · pandas |
 
 ## 📫 Contact
 
