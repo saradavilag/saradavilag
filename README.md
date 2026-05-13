@@ -16,6 +16,7 @@ Computer Engineering student looking for my first junior role.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [task-api](https://github.com/saradavilag/task-api) | REST API with JWT auth, tests and Docker | FastAPI · PostgreSQL · Docker |
+| [weather-dashboard](https://github.com/saradavilag/weather-dashboard) | 7-day weather forecast for Spanish cities | React · Recharts · Open-Meteo |
 
 ## 📫 Contact
 
