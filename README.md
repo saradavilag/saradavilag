@@ -59,6 +59,7 @@ Computer Engineering student looking for my first junior role.
 | [book-scraper](https://github.com/saradavilag/book-scraper) | CLI tool to scrape and filter 1000 books | Python · BeautifulSoup · pandas |
 | [notes-app](https://github.com/saradavilag/notes-app) | Markdown note-taking app with tags and search | Next.js · Prisma · Turso |
 | [procedural-art](https://github.com/saradavilag/procedural-art) | Generador de arte procedural con 5 algoritmos matemáticos | Java · JavaFX · Maven |
+| [traffic-sim](https://github.com/saradavilag/traffic-sim) | Urban traffic simulator with adaptive AI traffic lights | Java · JavaFX · Maven |
 
 ## 📫 Contact
 
