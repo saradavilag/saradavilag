@@ -24,6 +24,8 @@ Computer Engineering student looking for my first junior role.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -56,6 +58,7 @@ Computer Engineering student looking for my first junior role.
 | [weather-dashboard](https://github.com/saradavilag/weather-dashboard) | 7-day weather forecast for Spanish cities | React · Recharts · Open-Meteo |
 | [book-scraper](https://github.com/saradavilag/book-scraper) | CLI tool to scrape and filter 1000 books | Python · BeautifulSoup · pandas |
 | [notes-app](https://github.com/saradavilag/notes-app) | Markdown note-taking app with tags and search | Next.js · Prisma · Turso |
+| [procedural-art](https://github.com/saradavilag/procedural-art) | Generador de arte procedural con 5 algoritmos matemáticos | Java · JavaFX · Maven |
 
 ## 📫 Contact
 
